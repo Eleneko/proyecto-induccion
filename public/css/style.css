@@ -1,0 +1,36 @@
+#divisor-cartas{
+    border-radius: 5px;
+    margin: 5px;
+    width: 20%;
+    height: 580px;
+    float: left;
+}
+
+#fondo{
+    background-image: url("/imagen/background.jpg");
+}
+
+#tarjeta{
+    border: 3px white solid;
+    padding: 2px;
+}
+
+#img-1{
+    padding-right: 10px;
+}
+#img-2{
+    padding-right: 10px;
+}
+#img-3{
+    padding-right: 10px;
+}
+
+#tittle{
+    margin-left: 1px;
+}
+#tittle-2{
+    margin-left: 1px;
+}
+#tittle-3{
+    margin-left: 1px;
+}
